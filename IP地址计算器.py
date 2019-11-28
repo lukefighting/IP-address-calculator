@@ -31,7 +31,4 @@ while True:
     print('\n\n')
     os.system('pause')
     os.system('cls')
-
-
-
-
+    
